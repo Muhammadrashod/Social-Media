@@ -1,0 +1,15 @@
+import styled from "styled-components";
+
+export const StyledSpan = styled.span`
+color: #A0A0A0;
+text-align: center;
+font-family: "Inter";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 412px;
+margin-top: 16px;
+margin-bottom: 56px;
+`
+
